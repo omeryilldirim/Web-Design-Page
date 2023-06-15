@@ -9,6 +9,6 @@ Built a business page to practice web design with HTML and CSS.
 - HTML, CSS.
 
 ## Expected Outcome
-**<div align="center">![Project Snapshot](snapshot.png)</div>**
+**<div align="center">![Project Snapshot](snapshot.gif)</div>**
 
 **<p align="center">&#9786; Happy Coding &#9997;</p>**
